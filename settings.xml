@@ -23,9 +23,6 @@
     </repositories>
   </profile>
 </profiles>
-<activeProfiles>
-        <activeProfile>default</activeProfile>
-    </activeProfiles>
 <mirrors>
   <mirror>
     <id>visualpath-maven-central-store</id>
